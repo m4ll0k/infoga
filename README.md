@@ -1,4 +1,4 @@
 # infoga
-Infoga - Email OSINT Service 
+Infoga - Email OSINT Service - https://infoga.io
 
 ## [https://infoga.io](https://www.infoga.io)
